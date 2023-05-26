@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* フォト */
+.photos {
+  width: 750px;
+}
+
+.photos-list li {
+  margin-bottom: 30px;
+}
+
+.photos figcaption {
+  font-size:
+  text-align: left;
+}

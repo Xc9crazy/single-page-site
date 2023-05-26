@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* アクセス */
+.access {
+  width: 600px;
+}
+
+.access-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.access-address {
+  font-size: 14px;
+}
+
+.access-address strong {
+  display: block;
+  margin: 10px 0;
+  font-size: 22px;
+}
+
+.access-map {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 1 295px;
+  flex: 0 1 295px;
+  max-width: 295px;
+}

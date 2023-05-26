@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* ヘッダー */
+.header {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+/* ロゴ */
+.logo {
+  margin: 0;
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* セクション */
+.section {
+  margin: 0 auto 80px;
+}
+
+/* 見出し */
+.heading {
+  margin-bottom: 40px;
+  text-align: center;
+}
